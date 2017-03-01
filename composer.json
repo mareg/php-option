@@ -1,11 +1,8 @@
 {
-    "name": "plasmaconduit/option",
-    "version": "0.2.2",
-    "repositories": [
-        { "type" : "vcs", "url": "https://github.com/mareg/php-either" }
-    ],
+    "name": "mareg/option",
+    "version": "0.2.3",
     "require": {
-        "plasmaconduit/either": "0.2.*"
+        "mareg/either": "0.2.*"
     },
     "require-dev": {
         "phpspec/phpspec2": "*"
